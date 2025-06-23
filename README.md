@@ -13,3 +13,8 @@
 * Web dev student
 * Bedroom guitarist
 * CRPG enjoyer
+## Find me at
+* **GitHub**: [@AstronomyOverdrive](https://github.com/AstronomyOverdrive)
+* **Codeberg**: [@AstronomyOverdrive](https://codeberg.org/AstronomyOverdrive)
+* **NPM**: [@astronomyoverdrive](https://www.npmjs.com/~astronomyoverdrive)
+* **Website**: [williampettersson.eu](https://williampettersson.eu/)
